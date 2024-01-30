@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "code": 200,
+        "type": "Success",
+        "message": "Success"
+    },
+    "data": {
+        "items": [
+            {
+                "id": "f5dc46de733c8c9781d30b7718e92fab",
+                "tracking_number": "SK479333958LV",
+                "carrier_code": "cainiao",
+                "order_create_time": "",
+                "destination_code": "",
+                "status": "notfound",
+                "track_update": true,
+                "original_country": "",
+                "itemTimeLength": null,
+                "stayTimeLength": null,
+                "service_code": null,
+                "packageStatus": null,
+                "substatus": "notfound002",
+                "last_mile_tracking_supported": null,
+                "origin_info": {
+                    "ItemReceived": null,
+                    "ItemDispatched": null,
+                    "DepartfromAirport": null,
+                    "ArrivalfromAbroad": null,
+                    "CustomsClearance": null,
+                    "DestinationArrived": null,
+                    "weblink": "https://global.cainiao.com",
+                    "phone": null,
+                    "carrier_code": "cainiao",
+                    "trackinfo": null
+                },
+                "destination_info": null,
+                "lastEvent": "",
+                "lastUpdateTime": ""
+            }
+        ]
+    }
+}
